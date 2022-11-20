@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/t3fowi3yvhh91sax?svg=true)](https://ci.appveyor.com/project/LetoTomaLeto/aqacode)
